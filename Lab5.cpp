@@ -17,7 +17,9 @@ using std::endl;
 //YOUR WORK HERE
 
 //Step 3:   In the space above, fix your cube function to return the input cubed
-
+int cube(int x){
+   return x*x*x;
+}
 
 //Step 4:   We will work together to submit these changes to GitHub
 
