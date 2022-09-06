@@ -14,7 +14,8 @@ using std::endl;
 //Step 2:   DEFINE (or "implement") the cube function, but JUST MAKE IT RETURN ZERO
 //          Then run your program
 
-//YOUR WORK HERE
+//int cube(int x)
+
 
 //Step 3:   In the space above, fix your cube function to return the input cubed
 int cube(int x){
